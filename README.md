@@ -26,4 +26,5 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarcisioalves01&show_icons=true&locale=en&layout=compact" alt="tarcisioalves01" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisioalves01&show_icons=true&locale=en" alt="tarcisioalves01" />
 </div>
+![snake gif](https://github.com/TarcisioAlves01/TarcisioAlves01/blob/output/github-contribution-grid-snake.svg)
 
