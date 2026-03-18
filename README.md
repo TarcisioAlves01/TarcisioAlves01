@@ -4,7 +4,7 @@
 <h1 align="center" style="margin-bottom:10px;">Hi 👋, I'm Tarcísio Alves</h1>
 <h3 align="center" style="margin-top:0; color:#555;">A passionate backend developer from Brasil</h3>
 
-<img align="right" alt="Coding" width="320" style="border-radius:10px; margin-left:20px;" src="[https://quantumhunts.com/user/assets/images/hero/hiring-manager-quantumhunts.gif](https://storyset.com/illustration/team-goals/pana#4075E9FF&hide=&hide=complete)">
+<img align="right" alt="Coding" width="320" style="border-radius:10px; margin-left:20px;" src="[[https://quantumhunts.com/user/assets/images/hero/hiring-manager-quantumhunts.gif](https://github.com/TarcisioAlves01/TarcisioAlves01/blob/main/Team%20goals-pana.png)](https://storyset.com/illustration/team-goals/pana#4075E9FF&hide=&hide=complete)">
 
 <p align="left" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=tarcisioalves01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
