@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Tarcísio Alves</h1>
-<h3 align="center">💻 Backend Developer | Java & Spring Boot | Brasil</h3>
+<h3 align="center">💻 Backend Developer | Java & Spring Boot | Angular | Brasil</h3>
 
 <!-- GIF -->
 <p align="center">
@@ -17,6 +17,7 @@
 ## 💼 Current Work
 - 🔭 Working on **Consórcio BWM**
 - 🌱 Learning **React Native**
+- ⚡ Currently working with **Angular**
 - ⚙️ Focused on **Backend & Microservices**
 
 ---
@@ -38,7 +39,7 @@
 
 ## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,python,docker,mysql,postgres,git,linux,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,docker,mysql,postgres,git,linux,html,css,bootstrap" />
 </p>
 
 ---
